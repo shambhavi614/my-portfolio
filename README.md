@@ -26,15 +26,27 @@ It’s built with **HTML, CSS, JavaScript, and GSAP animations** to create a mod
 - **Design:** Google Fonts + Responsive Flexbox/Grid
 
 ---
+my-portfolio/
+│
+├── index.html        # Main homepage
+├── style.css         # All custom styles
+├── script.js         # Animations & effects
+├── photo1.jpg        # Profile image
+├── photo2.jpg        # About section image
+├── sapi5.png         # Project image 1
+├── bloodbank.png     # Project image 2
+└── Shambhavi Jha.pdf # Resume
 
-## 📸 Preview
+⭐ Acknowledgements
+GSAP for smooth animations
 
-![Portfolio Preview](photo1.jpg)
+Lenis for buttery scroll
 
----
+Font Awesome for icons
 
-## 🚀 Setup Instructions
+📌 Note
+This portfolio is under continuous improvement — stay tuned for updates!
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+yaml
+Copy
+Edit
