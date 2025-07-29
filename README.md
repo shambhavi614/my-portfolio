@@ -26,16 +26,6 @@ It’s built with **HTML, CSS, JavaScript, and GSAP animations** to create a mod
 - **Design:** Google Fonts + Responsive Flexbox/Grid
 
 ---
-my-portfolio/
-│
-├── index.html        # Main homepage
-├── style.css         # All custom styles
-├── script.js         # Animations & effects
-├── photo1.jpg        # Profile image
-├── photo2.jpg        # About section image
-├── sapi5.png         # Project image 1
-├── bloodbank.png     # Project image 2
-└── Shambhavi Jha.pdf # Resume
 
 ⭐ Acknowledgements
 GSAP for smooth animations
