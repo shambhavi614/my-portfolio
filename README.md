@@ -9,7 +9,7 @@ It’s built with **HTML, CSS, JavaScript, and GSAP animations** to create a mod
 
 - 🚀 Smooth scrolling & interactive transitions with **GSAP + Lenis**
 - 📱 **Responsive design** for mobile, tablet, and desktop
-- 🖼 Modern **UI/UX layout** with animations
+- 🖼 Modern **UI/UX layout** with animations 
 - 💼 **Projects section** with detailed case studies
 - 🛠 **Skills showcase** (Web Dev, AI/ML, Databases, UI/UX, Soft Skills)
 - 📄 Downloadable Resume
